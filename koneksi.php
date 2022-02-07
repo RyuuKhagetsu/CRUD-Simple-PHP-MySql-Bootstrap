@@ -3,7 +3,7 @@
 $hostname = "localhost";
 $user = "root";
 $pass = "";
-$database = "eduwork_tugas_database";
+$database = "db_crud";
 $konek = mysqli_connect($hostname, $user, $pass, $database);
 
 ?>
